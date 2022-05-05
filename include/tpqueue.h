@@ -20,7 +20,6 @@ class TPQueue {
     ITEM* tail;
     ITEM* head;
 };
-};
 
 struct SYM {
   char ch;
